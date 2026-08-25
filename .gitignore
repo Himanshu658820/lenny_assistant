@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+.pytest_cache/
+data/transcripts/
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data
+data/raw/
+data/processed/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
