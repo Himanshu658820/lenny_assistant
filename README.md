@@ -99,4 +99,4 @@ Manual UI plan: `docs/manual_test_plan.md`.
 
 ## Demo video
 
-*(Add your YouTube link here after recording — script in `docs/demo_script.md`.)*
+https://www.youtube.com/watch?v=SGLWcYVV1-4
